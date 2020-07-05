@@ -6,8 +6,6 @@ draft: true
 ---
 [Twitter @prakis](https://twitter.com/prakis)
 
-
-
 Credits: Netlify, NetlifyCMS. GitHub
 
-A static blog powered by [Cecil](https://cecil.app).
+A static blog powered by [Cecil](https://cecil.app) & [ideaMan](https://ideaman.io).
